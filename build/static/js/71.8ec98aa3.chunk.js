@@ -1,0 +1,2 @@
+(this["webpackJsonpbounmecie-uniswap-interface"]=this["webpackJsonpbounmecie-uniswap-interface"]||[]).push([[71],{935:function(e,i,c){"use strict";c.r(i),i.default=c.p+"static/media/tr-TR.10fbcc7d.po"}}]);
+//# sourceMappingURL=71.8ec98aa3.chunk.js.map

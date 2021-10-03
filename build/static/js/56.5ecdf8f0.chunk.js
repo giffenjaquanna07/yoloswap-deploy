@@ -1,0 +1,2 @@
+(this["webpackJsonpbounmecie-uniswap-interface"]=this["webpackJsonpbounmecie-uniswap-interface"]||[]).push([[56],{920:function(e,i,a){"use strict";a.r(i),i.default=a.p+"static/media/id-ID.422ea8ca.po"}}]);
+//# sourceMappingURL=56.5ecdf8f0.chunk.js.map
