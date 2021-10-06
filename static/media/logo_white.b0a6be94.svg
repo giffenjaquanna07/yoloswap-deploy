@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25.103" viewBox="12.718 0 830.565 834">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 200px;
+        fill: #fff;
+        font-family: "Alibaba PuHuiTi";
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 30px;
+      }
+    </style>
+  </defs>
+  <image id="图层_1_拷贝" data-name="图层 1 拷贝" width="856" height="834" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAZCAYAAAAv3j5gAAAATklEQVRIiWMUFjR/ysDAIMXAwPCZgTaAl4GB4RkLlMGARNMC8DLR0HAUMGrRqEWjFo1aNGrRqEWjFo1aNKgsAjW3QO05UFOLdu06BobPADlpBpBocXiRAAAAAElFTkSuQmCC"/>
+  <text id="yoloswap" class="cls-1" x="167" y="361">YOLO<tspan x="167" dy="240">SWAP</tspan></text>
+  <circle id="椭圆_1" data-name="椭圆 1" class="cls-2" cx="428" cy="417" r="383"/>
+</svg>
