@@ -277,9 +277,13 @@ msgstr "Arbitrum is in Beta and may experience downtime. During downtime, your p
 msgid "Are you sure?"
 msgstr "Are you sure?"
 
+#: 
+#~ msgid "As a member of the Uniswap community you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about UNI</2>"
+#~ msgstr "As a member of the Uniswap community you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about UNI</2>"
+
 #: src/components/claim/ClaimModal.tsx
-msgid "As a member of the Uniswap community you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about UNI</2>"
-msgstr "As a member of the Uniswap community you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about UNI</2>"
+msgid "As a member of the Yoloswap community you may claim YOLO to be used for voting and governance.<0/><1/><2>Read more about YOLO</2>"
+msgstr "As a member of the Yoloswap community you may claim YOLO to be used for voting and governance.<0/><1/><2>Read more about YOLO</2>"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
 msgid "At least {0} {1} and {2} {3} will be refunded to your wallet due to selected price range."
@@ -374,29 +378,49 @@ msgstr "Claim"
 msgid "Claim <0/> for {0}"
 msgstr "Claim <0/> for {0}"
 
+#: 
+#: 
+#: 
+#: 
+#: 
+#~ msgid "Claim UNI"
+#~ msgstr "Claim UNI"
+
+#: 
+#~ msgid "Claim UNI Token"
+#~ msgstr "Claim UNI Token"
+
+#: 
+#~ msgid "Claim UNI reward for {0}"
+#~ msgstr "Claim UNI reward for {0}"
+
 #: src/components/claim/AddressClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
 #: src/components/Header/index.tsx
 #: src/components/Menu/index.tsx
-msgid "Claim UNI"
-msgstr "Claim UNI"
+msgid "Claim YOLO"
+msgstr "Claim YOLO"
 
 #: src/components/claim/AddressClaimModal.tsx
-msgid "Claim UNI Token"
-msgstr "Claim UNI Token"
+msgid "Claim YOLO Token"
+msgstr "Claim YOLO Token"
 
 #: src/components/AccountDetails/TransactionSummary.tsx
-msgid "Claim UNI reward for {0}"
-msgstr "Claim UNI reward for {0}"
+msgid "Claim YOLO reward for {0}"
+msgstr "Claim YOLO reward for {0}"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Claim fees"
 msgstr "Claim fees"
 
+#: 
+#~ msgid "Claim your UNI tokens"
+#~ msgstr "Claim your UNI tokens"
+
 #: src/components/Popups/ClaimPopup.tsx
-msgid "Claim your UNI tokens"
-msgstr "Claim your UNI tokens"
+msgid "Claim your YOLO tokens"
+msgstr "Claim your YOLO tokens"
 
 #: src/components/claim/AddressClaimModal.tsx
 msgid "Claimed"
@@ -416,9 +440,13 @@ msgstr "Claimed!"
 msgid "Claiming"
 msgstr "Claiming"
 
+#: 
+#~ msgid "Claiming UNI"
+#~ msgstr "Claiming UNI"
+
 #: src/components/Header/index.tsx
-msgid "Claiming UNI"
-msgstr "Claiming UNI"
+msgid "Claiming YOLO"
+msgstr "Claiming YOLO"
 
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/UnstakingModal.tsx
@@ -728,9 +756,13 @@ msgstr "Enter a recipient"
 msgid "Enter a valid slippage percentage"
 msgstr "Enter a valid slippage percentage"
 
+#: 
+#~ msgid "Enter an address to trigger a UNI claim. If the address has any claimable UNI it will be sent to them on submission."
+#~ msgstr "Enter an address to trigger a UNI claim. If the address has any claimable UNI it will be sent to them on submission."
+
 #: src/components/claim/AddressClaimModal.tsx
-msgid "Enter an address to trigger a UNI claim. If the address has any claimable UNI it will be sent to them on submission."
-msgstr "Enter an address to trigger a UNI claim. If the address has any claimable UNI it will be sent to them on submission."
+msgid "Enter an address to trigger a YOLO claim. If the address has any claimable YOLO it will be sent to them on submission."
+msgstr "Enter an address to trigger a YOLO claim. If the address has any claimable YOLO it will be sent to them on submission."
 
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/UnstakingModal.tsx
@@ -1548,9 +1580,13 @@ msgstr "Swap exactly <0/> for <1/>"
 msgid "Swapping {0} {1} for {2} {3}"
 msgstr "Swapping {0} {1} for {2} {3}"
 
+#: 
+#~ msgid "Thanks for being part of the Uniswap community <0/>"
+#~ msgstr "Thanks for being part of the Uniswap community <0/>"
+
 #: src/components/Popups/ClaimPopup.tsx
-msgid "Thanks for being part of the Uniswap community <0/>"
-msgstr "Thanks for being part of the Uniswap community <0/>"
+msgid "Thanks for being part of the Yoloswap community <0/>"
+msgstr "Thanks for being part of the Yoloswap community <0/>"
 
 #: src/components/FeeSelector/index.tsx
 msgid "The % you will earn in fees."
@@ -1714,9 +1750,9 @@ msgstr "Try Again"
 msgid "Turn On Expert Mode"
 msgstr "Turn On Expert Mode"
 
-#: src/components/Popups/ClaimPopup.tsx
-msgid "UNI has arrived"
-msgstr "UNI has arrived"
+#: 
+#~ msgid "UNI has arrived"
+#~ msgstr "UNI has arrived"
 
 #: src/components/Header/UniBalanceContent.tsx
 msgid "UNI in circulation:"
@@ -2018,6 +2054,10 @@ msgstr "Wrap <0/> to WETH"
 msgid "Wrong Network"
 msgstr "Wrong Network"
 
+#: src/components/Popups/ClaimPopup.tsx
+msgid "YOLO has arrived"
+msgstr "YOLO has arrived"
+
 #: src/pages/CreateProposal/index.tsx
 msgid "You already have an active or pending proposal"
 msgstr "You already have an active or pending proposal"
@@ -2251,13 +2291,13 @@ msgstr "{0} Fees Earned:"
 msgid "{0} Pending"
 msgstr "{0} Pending"
 
-#: src/components/claim/AddressClaimModal.tsx
-#: src/components/claim/AddressClaimModal.tsx
-#: src/components/claim/ClaimModal.tsx
-#: src/components/claim/ClaimModal.tsx
-#: src/components/claim/ClaimModal.tsx
-msgid "{0} UNI"
-msgstr "{0} UNI"
+#: 
+#: 
+#: 
+#: 
+#: 
+#~ msgid "{0} UNI"
+#~ msgstr "{0} UNI"
 
 #: src/components/earn/PoolCard.tsx
 #: src/components/earn/PoolCard.tsx
@@ -2278,6 +2318,14 @@ msgstr "{0} UNI-V2 LP tokens available"
 #: src/components/vote/VoteModal.tsx
 msgid "{0} Votes"
 msgstr "{0} Votes"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "{0} YOLO"
+msgstr "{0} YOLO"
 
 #: src/components/PositionPreview/index.tsx
 #: src/components/PositionPreview/index.tsx
@@ -2347,9 +2395,13 @@ msgstr "{0}/{1} LP Tokens"
 msgid "{SOCKS_AMOUNT} UNI"
 msgstr "{SOCKS_AMOUNT} UNI"
 
+#: 
+#~ msgid "{USER_AMOUNT} UNI"
+#~ msgstr "{USER_AMOUNT} UNI"
+
 #: src/components/claim/ClaimModal.tsx
-msgid "{USER_AMOUNT} UNI"
-msgstr "{USER_AMOUNT} UNI"
+msgid "{USER_AMOUNT} YOLO"
+msgstr "{USER_AMOUNT} YOLO"
 
 #: src/components/SearchModal/ManageLists.tsx
 msgid "{activeTokensOnThisChain} tokens"
