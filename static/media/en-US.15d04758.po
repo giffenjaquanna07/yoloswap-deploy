@@ -67,9 +67,17 @@ msgstr "0.3% fee"
 msgid "1% fee"
 msgstr "1% fee"
 
+#: src/components/Header/index.tsx
+msgid "1st-Airdrop"
+msgstr "1st-Airdrop"
+
 #: src/pages/RemoveLiquidity/V3.tsx
 msgid "25%"
 msgstr "25%"
+
+#: src/components/Header/index.tsx
+msgid "2nd-Airdrop"
+msgstr "2nd-Airdrop"
 
 #: src/pages/RemoveLiquidity/V3.tsx
 msgid "50%"
@@ -356,9 +364,9 @@ msgstr "Canceled"
 msgid "Change"
 msgstr "Change"
 
-#: src/components/Header/index.tsx
-msgid "Charts"
-msgstr "Charts"
+#: 
+#~ msgid "Charts"
+#~ msgstr "Charts"
 
 #: src/components/Header/ChainConnectivityWarning.tsx
 msgid "Check network status"
